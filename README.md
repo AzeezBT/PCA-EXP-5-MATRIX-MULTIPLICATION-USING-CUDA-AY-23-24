@@ -36,8 +36,8 @@ Google Colab with NVCC Compiler
     
 ## PROGRAM:
 ```
-Developed By : AJITH KUMAR A
-Register No. : 212223230009
+Developed By : AZEEZ AHAMAD SK
+Register No. : 212223110046
 ```
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
